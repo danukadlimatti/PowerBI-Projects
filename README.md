@@ -74,12 +74,8 @@ Customer Segmentation: Created pie charts and bar charts to analyze customer dem
 
 Sales by Region: Created a map visualization to display sales data based on geographic regions (if location data is available).
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-Dashboard Features
-Interactivity: Users can interact with the dashboard by filtering sales data based on:
+## Dashboard Features
+# Interactivity: Users can interact with the dashboard by filtering sales data based on:
 
 Date range (Month, Week, Year).
 
@@ -98,3 +94,9 @@ Number of orders.
 Average order value.
 
 Customer segmentation insights.
+
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
